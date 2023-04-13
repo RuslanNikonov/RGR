@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(12,6): warning C4273: CreatePen: несовместимое связывание dll
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3852,26): message : см. предыдущее определение "CreatePen"
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(127,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(150,45): warning C4309: =: усечение константного значения
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(251,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(251,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(252,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(252,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(253,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(253,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(254,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(254,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(311,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(313,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(313,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(313,67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(314,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(314,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ruslannikonov\source\repos\RgR-project\Source.cpp(314,67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Расчетно-графическая работа.vcxproj -> C:\Users\ruslannikonov\Source\Repos\RgR-project\x64\Debug\Расчетно-графическая работа.exe
